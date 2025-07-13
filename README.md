@@ -25,4 +25,4 @@ A modern, responsive **Create Account** form built using **HTML**, **CSS**, and 
 ├── style.css         # Styling and layout
 ├── script.js         # Form validation and interactivity
 
-Created by Aadarsh Kumar Singh
+
